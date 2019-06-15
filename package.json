@@ -1,0 +1,32 @@
+{
+  "name": "solomon_solomon.com",
+  "version": "1.0.0",
+  "description": "a great startup idea, maybe?",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarchymonkey/solomon_solomon.com.git"
+  },
+  "keywords": [
+    "node",
+    "ejs",
+    "app"
+  ],
+  "author": "TechOus organization",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anarchymonkey/solomon_solomon.com/issues"
+  },
+  "homepage": "https://github.com/anarchymonkey/solomon_solomon.com#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.6.0",
+    "morgan": "^1.9.1"
+  }
+}
